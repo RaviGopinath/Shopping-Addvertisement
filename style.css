@@ -1,0 +1,92 @@
+body{
+    width: 563px;
+    margin: auto;
+}
+.title-tag{
+    background-color: yellow;
+    width: 220px;
+    height: 17px;
+    margin-left: 337px;
+}
+.kate-spade{
+    margin-left: 77px;
+}
+h1{
+    font-size: 37px;
+    font-style: oblique;
+    position: relative;
+    bottom: 25px;
+    left: 25px;
+}
+
+.spans{
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    line-height: 30px;
+    position: relative;
+    bottom: 40px;
+    font-size: 11px;
+}
+.content{
+    background-image: url(../practice-18/img_files/bg_img2.jpg);
+    position: relative;
+    bottom: 39px;
+}
+.content-place{
+    font-size: 18px;
+    margin-left: 150px;
+    margin-top: 0;
+    position: relative;
+    top: 18px;
+}
+.line{
+    background-color: #73ddb9;
+    width: 268px;
+    height: 5px;
+    margin-top: 18px;
+    margin-left: 145px;
+}
+.line2{
+    background-color: #89d7e4;
+    width: 268px;
+    height: 5px;
+    margin-left: 145px;
+}
+.offer{
+    font-size: 40px;
+    margin-left: 202px;
+    margin-top: 3px;
+}
+.products{
+    font-size: 27px;
+    margin-left: 174px;
+}
+.image-1{
+margin-left: 33px;
+}
+.go-for-it{
+    font-size: 26px;
+    color: #89d7e4;
+    margin-left: 212px;
+    margin-top: 10px;
+}
+b{
+    margin-left: 154px;
+}
+.image-3{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 7px;
+    left: 31px;
+}
+.follow{
+    margin-left: 350px;
+}
+.social-media{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    line-height: 32px;
+}
